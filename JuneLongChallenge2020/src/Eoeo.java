@@ -42,7 +42,9 @@ public class Eoeo {
                 BigInteger x = two.pow(twos.add(BigInteger.valueOf(1l)).intValue());
                 BigInteger y = ts.subtract(BigInteger.valueOf(1l)).divide(x);*/
 
-                result = ts.subtract(BigInteger.valueOf(1l)).divide(two.pow(twos.add(BigInteger.valueOf(1l)).intValue()));
+           //     result = ts.subtract(BigInteger.valueOf(1l)).divide(two.pow(twos.add(BigInteger.valueOf(1l)).intValue()));
+
+                result = ts.subtract(BigInteger.ONE).divide(two.pow(twos.add(BigInteger.ONE).intValue()));
                 System.out.println(result);
             }
         }
