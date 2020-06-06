@@ -11,26 +11,46 @@ public class Chficrm {
         Scanner kb = new Scanner(System.in);
 
         int t = kb.nextInt();
-        int n,x,count5,count10,count15;
+        int i, n, count5, count10;
 
-        while (t-->0)
-        {
-            count5=count10=count15=0;
+        int arr[] = new int[10];
 
-            n=kb.nextInt();
+        while (t-- > 0) {
+            count5 = count10 = 0;
 
-            for (int i=0;i<n;i++)
-            {
-                x=kb.nextInt();
+            n = kb.nextInt();
+            arr = new int[n];
+
+            for (i = 0; i < n; i++)
+                arr[i] = kb.nextInt();
 
 
+            for (i = 0; i < n; i++) {
+
+                if (arr[i] == 5) {
+                    count5++;
+                } else if (arr[i] == 10) {
+                    if (count5 > 0) {
+                        count5--;
+                        count10++;
+                    } else
+                        break;
+                } else if (arr[i] == 15) {
+                    if (count5 > 1 || count10 > 0) {
+                        if (count10 > 0) {
+                            count10--;
+                        } else {
+                            count5 -= 2;
+                        }
+                    } else
+                        break;
+                }
             }
 
-
+            if (i == n)
+                System.out.println("YES");
+            else
+                System.out.println("NO");
         }
-
-
     }
-
-
 }
