@@ -13,7 +13,7 @@ public class Chficrm {
         int t = kb.nextInt();
         int i, n, count5, count10;
 
-        int arr[] = new int[10];
+        int arr[];
 
         while (t-- > 0) {
             count5 = count10 = 0;
