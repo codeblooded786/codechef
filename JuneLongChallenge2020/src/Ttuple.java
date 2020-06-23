@@ -85,7 +85,10 @@ public class Ttuple {
                         operations = 2;
                         System.out.println(operations);
                         continue;
-                    } else if (difference.get(0) / input.get(0) == difference.get(1) / input.get(1) && difference.get(1) / input.get(1) == difference.get(2) / input.get(2) && (difference.get(0) % input.get(0)) == 0 && (difference.get(1) % input.get(1)) == 0 && (difference.get(2) % input.get(2)) == 0) {
+                    } else if (difference.get(0) / input.get(0) == difference.get(1) / input.get(1) &&
+                            difference.get(1) / input.get(1) == difference.get(2) / input.get(2) &&
+                            (difference.get(0) % input.get(0)) == 0 && (difference.get(1) % input.get(1)) == 0 &&
+                            (difference.get(2) % input.get(2)) == 0) {
                         operations = 1;
                         System.out.println(operations);
                         continue;
