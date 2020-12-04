@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DecemberLongChallenge2020/DecemberLongChallenge2020.iml" filepath="$PROJECT_DIR$/DecemberLongChallenge2020/DecemberLongChallenge2020.iml" />
       <module fileurl="file://$PROJECT_DIR$/JuneCookOff2020/JuneCookOff2020.iml" filepath="$PROJECT_DIR$/JuneCookOff2020/JuneCookOff2020.iml" />
       <module fileurl="file://$PROJECT_DIR$/JuneLongChallenge2020/JuneLongChallenge2020.iml" filepath="$PROJECT_DIR$/JuneLongChallenge2020/JuneLongChallenge2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NovemberLongChallenge2020/NovemberLongChallenge2020.iml" filepath="$PROJECT_DIR$/NovemberLongChallenge2020/NovemberLongChallenge2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NovemberLunchtime2020/NovemberLunchtime2020.iml" filepath="$PROJECT_DIR$/NovemberLunchtime2020/NovemberLunchtime2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OctoberLunchtime2020/OctoberLunchtime2020.iml" filepath="$PROJECT_DIR$/OctoberLunchtime2020/OctoberLunchtime2020.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codechef.iml" filepath="$PROJECT_DIR$/.idea/codechef.iml" />
     </modules>
