@@ -56,12 +56,12 @@ public class IRSTXOR {
     public static void main(String[] args) {
 
         FastReader kb = new FastReader();
-        int t = kb.nextInt();
+        long t = kb.nextLong();
 
         while (t-- > 0) {
-            int x = kb.nextInt();
+            long x = kb.nextLong();
 
-            String binary = Integer.toBinaryString(x);
+            String binary = Long.toBinaryString(x);
 
             String num1 = "1";
             String num2 = "0";
@@ -77,7 +77,7 @@ public class IRSTXOR {
                 }
             }
 
-            System.out.println(Integer.parseInt(num1, 2) * Integer.parseInt(num2, 2));
+            System.out.println(Long.parseLong(num1, 2) * Long.parseLong(num2, 2));
 
         }
     }
