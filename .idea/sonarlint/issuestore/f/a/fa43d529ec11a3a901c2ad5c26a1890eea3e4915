@@ -1,0 +1,54 @@
+
+R
+java:S1481H"0Remove this unused "maxOmelette" local variable.(½™†•ýÿÿÿÿ8Ôü¸¯‚/
+L
+java:S1659H"*Declare "maxMilkshake" on a separate line.(½™†•ýÿÿÿÿ8Ôü¸¯‚/
+J	java:S108u")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8ï„Ë°‚/
+V
+java:S1854t"9Remove this useless assignment to local variable "dish2".(²›¿…8ï„Ë°‚/
+A
+java:S1659?"Declare "c" on a separate line.(Œ´Š þÿÿÿÿ8«ê´¯‚/
+L
+java:S3740["/Provide the parametrized type for this generic.(ö±µÈ8ý®é¯‚/
+^
+java:S1854e"<Remove this useless assignment to local variable "chocLeft".(¸”·¹þÿÿÿÿ8³ûÆ°‚/
+O
+java:S1199u"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ï„Ë°‚/
+X
+java:S1854J";Remove this useless assignment to local variable "maxCake".(Ã¦À 8Ôü¸¯‚/
+A
+java:S1659?"Declare "a" on a separate line.(Œ´Š þÿÿÿÿ8«ê´¯‚/
+Y
+java:S1854{"<Remove this useless assignment to local variable "chocLeft".(ƒ¯Þæ8Íù¤°‚/
+O
+java:S1481e"-Remove this unused "chocLeft" local variable.(¸”·¹þÿÿÿÿ8ÂËœ°‚/
+f
+java:S1192R"JDefine a constant instead of duplicating this literal "milkshake" 3 times.(Áüå8ï„Ë°‚/
+N
+java:S1481H",Remove this unused "maxCake" local variable.(½™†•ýÿÿÿÿ8¹äÇ°‚/
+K
+java:S1659H")Declare "maxOmelette" on a separate line.(½™†•ýÿÿÿÿ8Ôü¸¯‚/
+A
+java:S1659?"Declare "e" on a separate line.(Œ´Š þÿÿÿÿ8«ê´¯‚/
+Y
+java:S1854m"<Remove this useless assignment to local variable "chocLeft".(ÐøŽ8žž°‚/
+P
+java:S1481b".Remove this unused "milkshake" local variable.(¸”—Éùÿÿÿÿ8‡±”°‚/
+\
+java:S1854L"?Remove this useless assignment to local variable "maxOmelette".(Åçž8¹äÇ°‚/
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(™þ±”üÿÿÿÿ8¹Ÿú°‚/
+Q
+java:S3740Y"/Provide the parametrized type for this generic.(ô£Ô„ûÿÿÿÿ8ØÓí¯‚/
+Q
+java:S3740`"/Provide the parametrized type for this generic.(‡ÂÉÁÿÿÿÿÿ8Ð²ü¯‚/
+A
+java:S1659?"Declare "b" on a separate line.(Œ´Š þÿÿÿÿ8«ê´¯‚/
+E	java:S108}")Either remove or fill this block of code.(å¥ž‡8Û—°‚/
+A
+java:S1659?"Declare "h" on a separate line.(Œ´Š þÿÿÿÿ8«ê´¯‚/
+E
+java:S1481c")Remove this unused "cake" local variable.(¾¶ÊA8‡±”°‚/
+G
+java:S1481t"*Remove this unused "dish2" local variable.(²›¿…8ï„Ë°‚/
+_
+java:S1854y"=Remove this useless assignment to local variable "milkshake".(‚Ý¤åþÿÿÿÿ8Íù¤°‚/

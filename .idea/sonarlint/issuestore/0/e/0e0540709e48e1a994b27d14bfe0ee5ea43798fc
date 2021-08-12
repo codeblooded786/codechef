@@ -1,0 +1,16 @@
+
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(ñ¡¼8¾Ôì¨‚/
+c
+java:S1192J"GDefine a constant instead of duplicating this literal "Second" 4 times.(ñ¡¼8½€º­‚/
+T	java:S106e"9Replace this use of System.out or System.err by a logger.(ñ¡¼8¾Ôì¨‚/
+T	java:S106J"9Replace this use of System.out or System.err by a logger.(ñ¡¼8Û¾ê¨‚/
+S
+java:S1197C"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(©»·Û8¾Ôì¨‚/
+h
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+?
+java:S1125O")Remove the literal "false" boolean value.(ûÅŸ
+M	java:S106Y"9Replace this use of System.out or System.err by a logger.(ñ¡¼
+F
+java:S1125^")Remove the literal "false" boolean value.(Ÿ›Ùÿ8ı¢ô¨‚/

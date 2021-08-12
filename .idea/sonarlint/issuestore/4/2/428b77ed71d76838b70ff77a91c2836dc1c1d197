@@ -1,0 +1,8 @@
+
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(ñ¡¼8šÕ„­‚/
+T	java:S106["9Replace this use of System.out or System.err by a logger.(ñ¡¼8ÛÁ­‚/
+Z
+java:S1197D"8Move the array designator from the variable to the type.(İò»¤ıÿÿÿÿ8§ªå¬‚/
+E
+java:S1125W"(Remove the literal "true" boolean value.(ùìëÈ8¶š­‚/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(©»·Û8šÕ„­‚/

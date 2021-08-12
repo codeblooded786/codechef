@@ -1,0 +1,16 @@
+
+;
+java:S1659@"Declare "e" on a separate line.(‡€/8í…ÿ°‚/
+;
+java:S1659@"Declare "h" on a separate line.(‡€/8í…ÿ°‚/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·¡ »
+;
+java:S1659@"Declare "c" on a separate line.(‡€/8í…ÿ°‚/
+;
+java:S1659@"Declare "a" on a separate line.(‡€/8í…ÿ°‚/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(Ñà‹Š8û³±±‚/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(¡ò†şÿÿÿÿ8Úİ°±‚/
+;
+java:S1659@"Declare "b" on a separate line.(‡€/8í…ÿ°‚/
+o
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8Úİ°±‚/
